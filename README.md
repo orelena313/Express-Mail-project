@@ -20,9 +20,9 @@ Pre-conditions/Entry сriteria for these fields:
 
 
   ---Вес---   ---Стандарт---     (see spec: http://express-mail.net/prices/local/)
-1. до 0,2          42 
-2. 0,2 - 1,0 	     48
-3. (+) 1 кг. 	       5
+1. до 0,2           42 
+2. 0,2 - 1,0        48
+3. (+) 1 кг.         5
 
 Inputs data for "Вес" using design techniques(to create test cases):
 /allowable range 0,1 - 20 kg/
