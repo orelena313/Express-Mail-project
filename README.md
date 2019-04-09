@@ -7,7 +7,7 @@ BRD overview:
 - http://express-mail.net/prices/local/  - only "Вес" and "Стандарт" columns will be considered (see set data below)
 - http://express-mail.net/modules/files/docs/rules_tov.pdf  - here maximum weight pointed as 20kg
 
-Requirements(TRD) to "Вес" field:
+Requirements to "Вес" field:
 - *required field is not empty
 - till 20 kg accepted valid values to be according to spec 
 - only digits
