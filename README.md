@@ -31,7 +31,7 @@ Inputs data for "Вес" using design techniques(to create test cases):
 - type 0,2      --- expected result = 42
 - type 0,21     --- expected result = 48
 - type 0,999999 --- expected result = 48
-- type 1，0 or 1 --- expected result = 48
+- type 1,0 or 1 --- expected result = 48
 - type 1,9      --- expected result = 53
 - type 2        --- expected result = 48(1kg) + 5(+1kg)= 48 + 5*1 = 53
 - type 8        --- expected result = 48(1kg) + 5(+7kg)= 48 + 5*7 = 83
