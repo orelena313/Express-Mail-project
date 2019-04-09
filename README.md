@@ -3,14 +3,14 @@ Verify calculator operation as "Рассчитать стоимость дост
 
 To start testing of "calculator-Express Mail" go to http://express-mail.net/calc/ 
 
-specs overview:
+BRD overview:
 - http://express-mail.net/prices/local/  - only "Вес" and "Стандарт" columns will be considered (see set data below)
 - http://express-mail.net/modules/files/docs/rules_tov.pdf  - here maximum weight pointed as 20kg
 
-Requirements to "Вес" field:
-- *required field
-- till 20 kg accepted valid to be according to spec 
-- only digits (using logic)
+Requirements(TRD) to "Вес" field:
+- *required field is not empty
+- till 20 kg accepted valid values to be according to spec 
+- only digits
 
 Pre-conditions/Entry сriteria for these fields:
 
